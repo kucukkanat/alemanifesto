@@ -13,7 +13,7 @@
 const config = {
   title: '🍺🍻',
   tagline: '3 Pillars Of Better Documentation',
-  favicon: 'img/favicon.ico',
+  favicon: 'favicon.ico',
 
   // Set the production url of your site here
   url: 'https://alemanifesto.com',
