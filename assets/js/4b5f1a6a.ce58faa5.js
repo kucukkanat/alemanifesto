@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalemanifesto=self.webpackChunkalemanifesto||[]).push([[922],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
