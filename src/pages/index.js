@@ -17,7 +17,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Accessible',
     imageUrl: 'img/accessible.png',
     description: (
       <>
