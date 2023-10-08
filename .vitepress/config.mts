@@ -5,7 +5,7 @@ export default defineConfig({
   title: "ALE Manifesto",
   description: "How should a document be?",
   srcDir: "./src",
-  outDir: "./dist",
+  outDir: "./docs",
   head: [['link', { rel: 'icon', href: '/static/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
