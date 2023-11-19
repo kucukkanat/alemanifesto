@@ -21,7 +21,6 @@ features:
       - A document should be accessible to everyone with just a click. <br/>
       - A document should be comprehensible to readers from various disciplines. <br/>
       - Navigation through the document should be straightforward. <br/>
-      - Avoid linking too much. When you link to another document then it is hidden content.[*](#thanks)
   - title: 🍺🍻 Living
     details: |
       - Outdated documentation is worse than having no documentation. <br/>
@@ -37,5 +36,3 @@ features:
 
 ---
 
-#### Special Thanks
-- Thanks to [@drakos74](https://github.com/drakos74) for the idea
